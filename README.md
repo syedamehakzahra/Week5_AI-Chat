@@ -1,7 +1,7 @@
 # AI Chat Application
 
 A modern, feature-rich AI chat application built with Next.js 14, featuring streaming responses, persistent chat history, and a beautiful glassmorphism UI.
-
+## Live Preview: https://ai-chat-azure-pi.vercel.app/
 ## Features
 
 - **Real-time Streaming**: Get AI responses in real-time with smooth streaming
